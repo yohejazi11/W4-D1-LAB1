@@ -24,7 +24,7 @@ reset.addEventListener('click',function(){
     BOX.style.width="30vw";
     BOX.style.height="40vh";
     BOX.style.backgroundColor="blue";
-    BOX.style.borderRadius="0px";
+    BOX.style.borderRadius="0";
 
 
 })
